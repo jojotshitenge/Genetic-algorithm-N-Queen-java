@@ -1,0 +1,2 @@
+# Genetic-algorithm-N-Queen-java
+Ce problème consiste à trouver un arrangement de N reines sur un échiquier, de sorte qu'aucune reine ne puisse attaquer les autres reines du plateau.  Les reines des échecs peuvent attaquer dans toutes les directions horizontales, verticales, horizontales et diagonales.  Une matrice binaire est utilisée pour afficher les positions de N Queens, où aucune reine ne peut attaquer d’autres reines.
